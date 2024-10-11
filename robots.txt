@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://piicwa.github.io/OGU/sitemap.OGU.gz
